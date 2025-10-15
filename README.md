@@ -17,5 +17,5 @@ PynutButter is as simple as opening the program and waiting for the '|' symbol t
 PynutButter will run the function again. Simple and easy, but is a little but of a duck tape fix.
 
 # Credits
-[@weet-ops](https://github.com/weet-ops) for the overall programming
+[@weet-ops](https://github.com/weet-ops) for the overall programming<br/>
 [Stack Overflow](https://stackoverflow.com/) for the idea to make this, and help related to the topic of the 'subprocess' library.
