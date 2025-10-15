@@ -11,7 +11,7 @@ It functions as a form of **terminal emulator / terminal application**, meaning 
 If you meet those criteria, then you are ***probably*** one of many users who find this helpful.
 
 # How do I use it?
-Buttered is as simple as opening the program and waiting for the '|' symbol to show up. You may then type whatever command you wish.
+Buttered is as simple as opening the program (inside your chosen python IDE, or else it will not work) and waiting for the '|' symbol to show up. You may then type whatever command you wish.
 
 ## What happens if the command fails?
 Buttered will run the function again. Simple and easy, but is a little but of a duck tape fix.
