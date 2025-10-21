@@ -16,7 +16,7 @@ Buttered is as simple as opening the program (inside your chosen python IDE, or 
 ## What happens if the command fails?
 Buttered will run the function again. Simple and easy, but is a little but of a duck tape fix.
 
-#What is the main purpose of this?
+## What is the main purpose of this?
 To allow users (who probably couldn't beforehand) to have access to your operating system's terminal (or command prompt). This also works very well with items that require commands such as accessing 'ssh ssh.chat'.
 
 # Credits
